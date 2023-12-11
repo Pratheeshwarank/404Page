@@ -1,4 +1,4 @@
-# 404Page
+# 404ErrorPage
 
 <h2 align="center">404ErrorPage</h2>
 
